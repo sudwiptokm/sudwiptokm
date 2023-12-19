@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sudwipto Kumar Mondal</h1>
 <h3 align="center">Frontend Engineer at Felicity Digital</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sudwiptokm" alt="sudwiptokm" /></a> </p>
 
 - 👨‍💻 Check my portfolio at: [https://www.sudwipto.com/](https://www.sudwipto.com/)
 
